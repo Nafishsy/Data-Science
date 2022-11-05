@@ -1,0 +1,17 @@
+Date: 27/10/2022
+
+WEKA : used for ML, can run dataset and build model
+@relation
+@attribute variableName DataType
+@attribute class {variableNames,...,...} //kindalike selection er moto
+
+
+@data //er por data gula lekhbo
+
+
+//how to run
+	1.	WEKA->Explorer->Open File(select) //data preporcessing
+	2.	Classify->start //used for applying for classifaction ,uses algo
+	3.	to test, Supplied test set(More options//Plain text)
+	4.	
+
